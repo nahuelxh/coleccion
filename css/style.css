@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(255, 217, 0);
+}
+
+.img-fondo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.034)), url(../Images/Paleta2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    cursor: pointer;
+}
